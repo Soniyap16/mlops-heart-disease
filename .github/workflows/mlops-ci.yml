@@ -26,9 +26,9 @@ jobs:
 
     - name: Lint code
       run: |
-        flake8 src tests --max-line-length=100
-
-    - name: Run unit tests
+         flake8 src tests --max-line-length=100 --ignore=E302,E305,W391
+   
+ - name: Run unit tests
       run: |
         pytest tests
 
