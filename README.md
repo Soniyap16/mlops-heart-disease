@@ -1,12 +1,3 @@
-This README is:
-
-* ✅ Aligned with your **actual implementation**
-* ✅ Matches **MLOps assignment rubrics**
-* ✅ Easy for evaluators to understand
-* ✅ Industry-style (not academic fluff)
-
----
-
 # ❤️ Heart Disease Prediction – End-to-End MLOps Pipeline
 
 This repository implements an **end-to-end MLOps pipeline** for a Heart Disease Prediction system, covering the complete lifecycle from data processing and model training to deployment, CI/CD, Kubernetes orchestration, and monitoring using Prometheus and Grafana.
